@@ -1,0 +1,28 @@
+# Сборочные артефакты
+build/
+*.o
+*.out
+*.exe
+
+# Временные файлы
+*.tmp
+*.swp
+*.swo
+core
+*~
+
+# Файлы IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Секреты
+.env
+*.key
+*.pem
+*.crt
+
+# Системные файлы Linux Mint
+.directory
+*.bak
+.DS_Store
